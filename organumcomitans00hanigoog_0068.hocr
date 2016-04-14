@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./organumcomitans00hanigoog_0068.png"; bbox 0 0 6516 4930; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2387 305 4276 398">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2387 305 4276 398">
+     <span class='ocr_line' id='line_1_1' title="bbox 2387 305 4276 398; baseline -0.004 -11"><span class='ocrx_word' id='word_1_1' title='bbox 2387 314 2580 386; x_wconf 87' lang='lat' dir='ltr'><strong>VIII.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 2629 308 3050 398; x_wconf 54' lang='lat' dir='ltr'><strong>Antiphon&amp;</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 3139 305 3347 379; x_wconf 72' lang='lat' dir='ltr'><strong>Salve</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 3391 306 3675 397; x_wconf 76' lang='lat' dir='ltr'><strong>Regina.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 3766 305 3967 378; x_wconf 85' lang='lat' dir='ltr'>Alius</span> <span class='ocrx_word' id='word_1_6' title='bbox 4015 307 4276 381; x_wconf 83' lang='lat' dir='ltr'>modus.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2376 499 4571 580">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2376 499 4571 580">
+     <span class='ocr_line' id='line_1_2' title="bbox 2376 499 4571 580; baseline 0.005 -10"><span class='ocrx_word' id='word_1_7' title='bbox 2376 540 2409 554; x_wconf 91' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 2547 519 2656 572; x_wconf 79' lang='lat' dir='ltr'><strong>ve.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 2865 499 2973 571; x_wconf 81' lang='lat' dir='ltr'><strong>Ad</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 3074 509 3146 571; x_wconf 72' lang='lat' dir='ltr'><strong>te</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 3227 499 3759 572; x_wconf 63' lang='grc' dir='ltr'><strong>οἱα-ηιά-ωιιε</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 3890 503 4363 580; x_wconf 74' lang='grc' dir='ltr'>όι-ειι-Ιεε</span> <span class='ocrx_word' id='word_1_13' title='bbox 4518 507 4571 580; x_wconf 83' lang='lat' dir='ltr'>fi</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 637 585 6085 4563">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 637 585 6085 4563">
+     <span class='ocr_line' id='line_1_3' title="bbox 637 585 6085 4563; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 637 585 6085 4563; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
